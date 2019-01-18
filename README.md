@@ -1,2 +1,3 @@
 # rps
 # inventory
+# inventory
